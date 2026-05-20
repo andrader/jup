@@ -218,3 +218,6 @@ __marimo__/
 docs/superpowers/
 
 .worktrees/
+
+
+.DS_Store
